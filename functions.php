@@ -2,7 +2,7 @@
 
 	/*
 		
-	Plugin Name: Pla Plugin
+	Plugin Name: Pla Protfolio
 	Plugin URI: https://amarplugin.com
 	Author: Majadul Islam Pallab
 	Author URI: https://facebook.com/majadul.3532
