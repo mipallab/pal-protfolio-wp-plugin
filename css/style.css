@@ -1,0 +1,17 @@
+.cart-footer .social a {
+	margin-right: 35px;
+	font-size: 35px;
+	color: #00000082;
+}
+
+.cart-footer .social a:last-child {
+	margin-right: 0;
+}
+
+.card-content p {
+	text-align: center;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
